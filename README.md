@@ -1,0 +1,2 @@
+# MVCpradera
+modelo vista controlador
